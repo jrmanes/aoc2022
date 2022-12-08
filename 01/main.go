@@ -25,7 +25,6 @@ func part1() {
 		num := fileScanner.Text()
 		t, err := strconv.Atoi(num)
 
-		//
 		currentCalories += t
 
 		if err != nil {
