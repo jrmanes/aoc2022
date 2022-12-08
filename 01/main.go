@@ -77,6 +77,7 @@ func part2() {
 	fmt.Println(maxCalories1 + maxCalories2 + maxCalories3)
 }
 
+// https://adventofcode.com/2022/day/1
 func main() {
 	fmt.Println("Part 1")
 	part1()
