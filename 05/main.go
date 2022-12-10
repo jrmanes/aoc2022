@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	utils "github.com/jrmanes/aoc2022/05/utils"
+	utils "github.com/jrmanes/aoc2022/05"
 )
 
 //go:embed input.txt
