@@ -5,6 +5,8 @@ import (
 	"fmt"
 	"strings"
 	"time"
+
+	utils "github.com/jrmanes/adventofcode-2022/05/utils"
 )
 
 //go:embed input.txt
